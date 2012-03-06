@@ -14,9 +14,9 @@
   path = vim/bundle/vim-scripts-AnsiEsc
   url = https://github.com/vim-scripts/AnsiEsc.vim.git
   ignore=dirty
-[submodule "vim/bundle/garbas-vim-showmarks"]
-  path = vim/bundle/garbas-vim-showmarks
-  url = https://github.com/garbas/vim-showmarks
+[submodule "vim/bundle/vim-scripts-showmarks"]
+  path = vim/bundle/vim-scripts-showmarks
+  url = https://github.com/vim-scripts/vim-showmarks
   ignore=dirty
 [submodule "vim/bundle/skwp-vim-ruby-conque"]
   path = vim/bundle/skwp-vim-ruby-conque
